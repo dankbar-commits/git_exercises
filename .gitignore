@@ -1,0 +1,7 @@
+file_to_ignore.txt
+
+.hidden_file_to_ignore.txt
+
+folder_to_ignore/
+
+.hidden_folder_to_ignore/
