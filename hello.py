@@ -1,5 +1,6 @@
 #
 # hello.py
+# - for testing git commands
 #
 
 def main():
