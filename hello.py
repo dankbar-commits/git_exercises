@@ -6,6 +6,7 @@
 
 def main():
     print("Hello World!")
+    print("Line added offline.")
 
 if __name__ == "__main__":
     main()
